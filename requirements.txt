@@ -1,5 +1,5 @@
 Flask==2.0.2
 
-Python==3.8.10
+Python==3.13.1
 
 sqlite3==3.48.0
